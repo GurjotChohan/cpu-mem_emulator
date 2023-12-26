@@ -1,0 +1,1001 @@
+23   
+100 // line one
+23
+160 // line two
+23
+215 // line 3 
+23
+265 // line 4
+23
+600 // line 5
+23
+750 // line 6
+23
+860 // line 7
+23
+405 // line 8
+23
+50 // line 9
+50
+
+.100
+      // line one
+1    ld 4
+7         
+27   push
+23   call 8 
+500
+28   remove parm 
+23
+515
+23
+522
+1
+19
+27
+23
+530
+28
+23
+545
+1    ld 4
+1         
+27   push
+23   call spaces 
+500
+28   remove parm 
+23
+515
+1
+19
+27
+23
+530
+28
+1    ld 4
+3         
+27   push
+23   call spaces 
+500
+28   remove parm 
+1
+10
+27
+23
+530
+28
+23
+545
+1    ld 4
+3         
+27   push
+23   call spaces 
+500
+28   remove parm 
+23   call newline
+555
+24   return
+
+    //line 2
+    // 888   Y88b                  Y8P                   888         d8888  
+.160
+1    ld 4
+3         
+27   push
+23   call 8 
+500
+28   remove parm 
+1
+3
+27
+23
+530
+28
+23
+565
+23
+515
+1
+19
+27
+23
+530
+28
+23
+565
+23
+575
+1
+19
+27
+23
+530
+28
+1    ld 4
+3         
+27   push
+23   call 8 
+500
+28   remove parm 
+1
+9
+27
+23
+530
+28
+23
+545
+1    ld 4
+4         
+27   push
+23   call 8 
+500
+28   remove parm 
+23   call newline
+555
+24   return
+
+// line 3  888    888                                        888           888 
+.215
+1    ld 4
+3         
+27   push
+23   call 8 
+500
+28   remove parm 
+1
+4
+27
+23
+530
+28
+1    ld 4
+3         
+27   push
+23   call 8 
+500
+28   remove parm 
+1
+40
+27
+23
+530
+28
+1    ld 4
+3         
+27   push
+23   call 8 
+500
+28   remove parm 
+1
+11
+27
+23
+530
+28
+1    ld 4
+3         
+27   push
+23   call 8 
+500
+28   remove parm 
+23   call newline
+555
+24   return
+
+.265 // line 4 888   d88P 888d888 .d88b.  8888  .d88b.   .d8888b 888888        888 
+1    ld 4
+3         
+27   push
+23   call 8 
+500
+28   remove parm 
+1
+3
+27
+23
+530
+28
+23
+545
+1    ld 4
+2         
+27   push
+23   call 8 
+500
+28   remove parm 
+23
+575
+1
+1
+27
+23
+530
+28
+1    ld 4
+3         
+27   push
+23   call 8 
+500
+28   remove parm 
+23
+545
+1    ld 4
+3         
+27   push
+23   call 8 
+500
+28   remove parm 
+1
+1
+27
+23
+530
+28      // .d88b.  
+23
+522
+23
+545
+1    ld 4
+2         
+27   push
+23   call 8 
+500
+28   remove parm 
+23
+515
+23
+522         //  8888  
+1
+2
+27
+23
+530
+28
+1    ld 4
+4         
+27   push
+23   call 8 
+500
+28   remove parm 
+1
+2
+27
+23
+530
+28      // .d88b.  
+23
+522
+23
+545
+1    ld 4
+2         
+27   push
+23   call 8 
+500
+28   remove parm 
+23
+515
+23
+522     //   .d8888b 
+1
+3
+27
+23
+530
+28
+23
+522
+23
+545
+1    ld 4
+4         
+27   push
+23   call 8 
+500
+28   remove parm 
+23
+515     // 888888        888
+1
+1
+27
+23
+530
+28
+1    ld 6
+6         
+27   push
+23   call 8 
+500
+28   remove parm 
+1
+8
+27
+23
+530
+28
+1    ld 6
+3         
+27   push
+23   call 8 
+500
+28   remove parm 
+23   call newline
+555
+24   return
+
+.600
+// line 5 8888888P"  888P"  d88""88b "888 d8P  Y8b d88P"    888           888   
+
+1    ld 6
+7         
+27   push
+23   call 8 
+500
+28   remove parm 
+
+23
+575
+
+23
+585
+
+1
+2
+27
+23
+530
+28
+
+1    ld 6
+3         
+27   push
+23   call 8 
+500
+28   remove parm 
+
+23
+575
+
+23
+585
+
+1
+2
+27
+23
+530
+28
+
+//d88""88b 
+23
+545
+
+1    ld 6
+2         
+27   push
+23   call 8 
+500
+28   remove parm 
+
+23
+585
+
+23
+585
+
+1    ld 6
+2         
+27   push
+23   call 8 
+500
+28   remove parm 
+
+23
+515
+
+ // "888 d8P  Y8b d88P"
+
+1
+1
+27
+23
+530
+28
+
+23
+585
+
+1    ld 6
+3         
+27   push
+23   call 8 
+500
+28   remove parm 
+
+1
+1
+27
+23
+530
+28
+
+23
+545
+
+1    ld 6
+1         
+27   push
+23   call 8 
+500
+28   remove parm 
+
+23
+575
+
+1
+2
+27
+23
+530
+28
+
+//Y8b
+
+23
+565
+
+23
+515
+
+1
+1
+27
+23
+530
+28
+
+
+//d88P"
+
+23
+545
+
+1    ld 6
+2         
+27   push
+23   call 8 
+500
+28   remove parm 
+
+23
+575
+
+23
+585
+
+
+//    888           888   
+
+1
+4
+27
+23
+530
+28
+1    ld 6
+3         
+27   push
+23   call 8 
+500
+28   remove parm 
+1
+11
+27
+23
+530
+28
+1    ld 6
+3         
+27   push
+23   call 8 
+500
+28   remove parm 
+23   call newline
+555
+24   return
+
+//888        888    888  888  888 88888888 888      888           888 
+.750
+1    ld 6
+3         
+27   push
+23   call 8 
+500
+28   remove parm 
+1
+8
+27
+23
+530
+28
+1    ld 6
+3         
+27   push
+23   call 8 
+500
+28   remove parm 
+1
+4
+27
+23
+530
+28
+1    ld 6
+3         
+27   push
+23   call 8 
+500
+28   remove parm 
+1
+2
+27
+23
+530
+28
+1    ld 6
+3         
+27   push
+23   call 8 
+500
+28   remove parm 
+1
+2
+27
+23
+530
+28
+1    ld 6
+3         
+27   push
+23   call 8 
+500
+28   remove parm 
+1
+1
+27
+23
+530
+28
+1    ld 6
+8         
+27   push
+23   call 8 
+500
+28   remove parm 
+1
+1
+27
+23
+530
+28
+1    ld 6
+3         
+27   push
+23   call 8 
+500
+28   remove parm 
+1
+6
+27
+23
+530
+28
+1    ld 6
+3         
+27   push
+23   call 8 
+500
+28   remove parm 
+1
+11
+27
+23
+530
+28
+1    ld 6
+3         
+27   push
+23   call 8 
+500
+28   remove parm 
+23   call newline
+555
+24   return
+
+.860 
+
+//888        888    Y88..88P  888 Y8b.     Y88b.    Y88b.         888  
+
+1    ld 6
+3         
+27   push
+23   call 8 
+500
+28   remove parm 
+
+1
+8
+27
+23
+530
+28
+
+1    ld 6
+3         
+27   push
+23   call 8 
+500
+28   remove parm 
+
+1
+4
+27
+23
+530
+28
+
+//Y88..88P
+23
+565
+23
+595
+23
+522
+23
+522
+23
+595
+23
+595
+23
+575
+
+//  888 Y8b.     
+
+1
+2
+27
+23
+530
+28
+
+1    ld 6
+3         
+27   push
+23   call 8 
+500
+28   remove parm 
+
+1
+1
+27
+23
+530
+28
+
+23
+565
+23
+515
+23
+522
+
+1
+5
+27
+23
+530
+28
+
+Y88b.    Y88b.         888
+
+23
+565
+23
+595
+23
+515
+23
+522
+
+1
+4
+27
+23
+530
+28
+
+23
+565
+23
+595
+23
+515
+23
+522
+
+1
+9
+27
+23
+530
+28
+
+1    ld 6
+3         
+27   push
+23   call 8 
+500
+28   remove parm 
+23   call newline
+555
+24   return
+
+.405
+//888        888     "Y88P"   888  "Y8888   "Y8888P  "Y888      8888888 
+
+1    ld 6
+3         
+27   push
+23   call 8 
+500
+28   remove parm 
+
+1
+8
+27
+23
+530
+28
+
+1    ld 6
+3         
+27   push
+23   call 8 
+500
+28   remove parm 
+
+1
+5
+27
+23
+530
+28
+
+// "Y88P"   888  "Y8888   
+23
+585
+23
+565
+23
+595
+23
+575
+23
+585
+1
+3
+27
+23
+530
+28
+1    ld 6
+3         
+27   push
+23   call 8 
+500
+28   remove parm 
+1
+2
+27
+23
+530
+28
+
+//"Y8888   "Y8888P  "Y888      8888888
+
+23
+585
+23
+565
+23
+595
+23
+595
+23
+595
+
+1
+3
+27
+23
+530
+28
+
+23
+585
+23
+565
+23
+595
+23
+595
+23
+595
+23
+575
+
+24   return
+
+.50 
+
+1
+2
+27
+23
+530
+28
+23
+585
+23
+565
+23
+595
+23
+595
+//      8888888
+1
+6
+27
+23
+530
+28
+1    ld 6
+7         
+27   push
+23   call 8 
+500
+28   remove parm 
+23   call newline
+555
+
+//                         888P"  
+
+1
+25
+27
+23
+530
+28
+
+23
+595
+23
+595
+23
+595
+23
+575
+23
+585
+23   call newline
+555
+24
+
+
+.500
+
+    // print 8 
+1    ld 1
+1 
+14   CopyToX
+6    LoadSpX  - get parm
+14   CopyToX
+1    ld ' ' 
+8
+9    output
+1
+26   decX
+15   CopyFromX
+22   JNE 211
+505
+24
+
+.515
+    // print b
+1
+98
+9
+2
+24
+
+    // print .
+.522
+1
+46
+9
+2
+24
+
+.530
+    // print space
+1    ld 1
+1 
+14   CopyToX
+6    LoadSpX  - get parm
+14   CopyToX
+1    ld ' ' 
+32
+9    output
+2
+26   decX
+15   CopyFromX
+22   JNE 211
+535
+24
+
+.545
+    // print d 
+1
+100 
+9
+2
+24
+
+.555
+
+    // print newline 
+1
+10
+9
+2
+24
+
+    // captial Y8
+.565
+1
+89
+9
+2
+1
+8
+9
+1
+24
+
+.575
+1
+80
+9
+2
+24
+
+.585
+1
+34
+9
+2
+24
+
+.595
+    // print 8
+1
+8
+9
+1
+24
+
+
+.1000
+30   interrupt handler - just return
